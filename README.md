@@ -19,4 +19,5 @@ Feel free to explore my projects, provide feedback, or reach out for collaborati
 - 📫 You can reach me via email at susysonia9@gmail.com.
 - 💬 Connect with me on https://www.linkedin.com/in/susy-costa
 
+
 Thanks for stopping by, and happy coding! 🚀
